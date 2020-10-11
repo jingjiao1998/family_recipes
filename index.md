@@ -6,3 +6,5 @@ Set of recipes as given by my grandma.
   - [base](./pizza/base.md)
 - sauces (TODO)
 - spreads (TODO)
+- chicken (TODO)
+  - [base](./chicken/base.md)
